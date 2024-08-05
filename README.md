@@ -7,3 +7,4 @@
 | 4 | 04.08.2024 | Score: 0.71052 | [f36e127](https://github.com/kurczakooo/kaggle-titanic-competition/commit/f36e127e0dd30f961f14f77a7263c83a5aac2d06) | decision tree regressor | included cabins excluded names and tickets, cabins are dummy encoded, as well as embarked, and Sex, also I decided to leave nan values for encoding to take care of them
 | 5 | 04.08.2024 | Score: 0.63397 | [546f56d](https://github.com/kurczakooo/kaggle-titanic-competition/commit/546f56d92e3848b8b7b2c3c1b34b8e7f989bfd1c) | decision tree regressor | same solution as before, but dropped rows with nans
 | 6 | 05.08.2024 | Score: 0.74162 |  | decision tree regressor | data preparation taken from submission 2, but sorted the features
+| 7 | 05.08.2024 | Score: 0.73923 |  | decision tree regressor | instead of filling nana for age with the average age, I left them as nans
