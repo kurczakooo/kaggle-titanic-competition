@@ -8,3 +8,5 @@
 | 5 | 04.08.2024 | Score: 0.63397 | [546f56d](https://github.com/kurczakooo/kaggle-titanic-competition/commit/546f56d92e3848b8b7b2c3c1b34b8e7f989bfd1c) | decision tree regressor | same solution as before, but dropped rows with nans
 | 6 | 05.08.2024 | Score: 0.74162 | [f8eb204](https://github.com/kurczakooo/kaggle-titanic-competition/commit/f8eb20472238a3fa2558175e4503b81215c80079) | decision tree regressor | data preparation taken from submission 2, but sorted the features
 | 7 | 05.08.2024 | Score: 0.73923 | [228ac3e](https://github.com/kurczakooo/kaggle-titanic-competition/commit/228ac3e1f4e30b319ae18e4a801764c2e2460421) | decision tree regressor | instead of filling nana for age with the average age, I left them as nans
+| 8 | 12.08.2024 | Score: 0.72727 |  | decision tree classifier | changed model to DecisionTreeClassifier, excluded PassengerId from fitting
+| 9 | 12.08.2024 | Score: 0.74162 |  | decision tree classifier | insted of mean age, i used median
