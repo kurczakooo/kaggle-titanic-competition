@@ -10,3 +10,4 @@
 | 7 | 05.08.2024 | Score: 0.73923 | [228ac3e](https://github.com/kurczakooo/kaggle-titanic-competition/commit/228ac3e1f4e30b319ae18e4a801764c2e2460421) | decision tree regressor | instead of filling nana for age with the average age, I left them as nans
 | 8 | 12.08.2024 | Score: 0.72727 |  | decision tree classifier | changed model to DecisionTreeClassifier, excluded PassengerId from fitting
 | 9 | 12.08.2024 | Score: 0.74162 |  | decision tree classifier | insted of mean age, i used median
+| 10 | 13.08.2024 | Score: 0.73444 |  | decision tree classifier | added FamSize feature by combining SibSp and Parch features.
