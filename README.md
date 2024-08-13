@@ -11,3 +11,4 @@
 | 8 | 12.08.2024 | Score: 0.72727 |  | decision tree classifier | changed model to DecisionTreeClassifier, excluded PassengerId from fitting
 | 9 | 12.08.2024 | Score: 0.74162 |  | decision tree classifier | insted of mean age, i used median
 | 10 | 13.08.2024 | Score: 0.73444 |  | decision tree classifier | added FamSize feature by combining SibSp and Parch features.
+| 11 | 13.08.2024 | Score: 0.74641 |  | decision tree classifier | excluded SibSp and Parch, but left FamSize
